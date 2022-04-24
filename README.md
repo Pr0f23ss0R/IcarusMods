@@ -1,6 +1,6 @@
 # IcarusMods - Pr0fpack Beta
 
-I also don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
+I don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
 Due to the lack of time I didn't got to the point splitting my mods.
 
 Please be carfull while testing the modpack!:
