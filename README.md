@@ -25,7 +25,7 @@ Energy
   - Electic Furnace/Material Processor will need more Energy, but process much faster
 
 Inventory
-  - changed DropShip and SpacePlayerLoadout to 30 slots
+  - changed player loadout and dropship to 30 slots
   - raised storage values of metal crates + the one outta space
   - raised inventory slots for fireplaces
   - Generator inventory rised
