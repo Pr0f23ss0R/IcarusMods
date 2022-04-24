@@ -41,7 +41,6 @@ Inventory
 Items
   - stack sizes and weight are copied from @Critical_Fail (Thanx!)
   - raised amount of stored units into canteens and oxygen tanks
-  - raised amount of stored units into wine and beer bottle
   - raised amount of stored units into Lantern and Biofuel Lamp
  
 Hunting/PVE
@@ -57,20 +56,7 @@ Prospects
 
 Processing
   - Player Inventory got an additional Queue Slot and faster processing
-  - some Stations got (slightly) faster processing:
-      - Campfire
-      - Cement Mixer
-      - Composters
-      - Crafting Bench
-      - Drying Rack
-      - Fabricator
-      - Firepit
-      - Fireplace
-      - Furnaces
-      - Herbalism Bench
-      - Material Processor
-      - Mortar and Pestle
-      - Trophy Bench
+  - most processing stations got (slightly) faster processing
 
 Repair System
   - repairing Items costs less stamina
