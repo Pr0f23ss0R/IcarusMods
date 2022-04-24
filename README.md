@@ -35,7 +35,7 @@ Inventory
   - changed player loadout and dropship to 30 slots
   - raised storage values of metal crates + the one outta space
   - raised inventory slots for fireplaces
-  - Generator inventory rised
+  - raised inventory slots for the Generator
   - added second slot for most fuel types
 
 Items
