@@ -1,4 +1,4 @@
-# IcarusMods - Pr0fpack WIP
+# IcarusMods - Pr0fPack WIP
 
 The main goal of this modpack is to make solo gameplay more fun.
 I don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
