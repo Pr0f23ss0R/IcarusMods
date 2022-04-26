@@ -40,6 +40,7 @@ Inventory
 
 Items
   - stack sizes and weight are copied from @Critical_Fail (Thanx!)
+  - DeepMiningDrills should work faster
   - raised amount of stored units into canteens and oxygen tanks
   - raised amount of stored units into Lantern and Biofuel Lamp
  
