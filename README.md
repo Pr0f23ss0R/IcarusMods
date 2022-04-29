@@ -78,13 +78,14 @@ WorkshopItems
       - Greenhouse Kit
  
  
-This pack changes a lot of commonly used files so it probably won't be compatible with any other modpacks.
+This pack changes a lot of commonly used files so it probably won't be compatible with any other modpack.
 
 approved compatibility:
   - Jimk Camo Textures (https://github.com/Jimk72/Icarus_Mods)
   - Jimk High Jump (https://github.com/Jimk72/Icarus_Mods)
   - CritFail_WN_PlatTi_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
   - CritFail_WN_ALL_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
+  - TheOrangeFloof Levelling Mod (https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods)
 
 
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
