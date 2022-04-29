@@ -4,7 +4,9 @@ The main goal of this modpack is to make solo gameplay more fun.
 I don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
 Due to the lack of time I didn't get to the point splitting my mods yet.
 
-I recommend using the modpack with Jimk's Camo Texture mod (https://github.com/Jimk72/Icarus_Mods).
+The Mod is optimised to run with Jimk's High Jump mod (https://github.com/Jimk72/Icarus_Mods).
+All Envirosuits got more FallDamageResistance but your char can still get injured.
+The adjustment wont be enough for those gravity mods.
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
 
@@ -23,9 +25,8 @@ Buildings
   - durability of stone elements copied to glass (beside of hp)
 
 Crafting:
-  - fewer Steel needed for Canteen
-  - Radar is built with carbon fiber instead of composites
-  - Hydro Crop Plot is built with carbon fiber instead of composites aswell
+  - some additional recipes added (Thanx @Critical_Fail!)
+  - some recipe values adjusted
 
 Energy
   - Generator/Solar Panel provide more Energy
@@ -39,7 +40,7 @@ Inventory
   - added second slot for most fuel types
 
 Items
-  - stack sizes and weight are copied from @Critical_Fail (Thanx!)
+  - stack sizes and weight adjusted (Thanx @Critical_Fail!)
   - DeepMiningDrills should work faster
   - raised amount of stored units into canteens and oxygen tanks
   - raised amount of stored units into Lantern and Biofuel Lamp
@@ -57,7 +58,7 @@ Prospects
 
 Processing
   - Player Inventory got an additional Queue Slot and faster processing
-  - most processing stations got (slightly) faster processing
+  - most processors got faster
 
 Repair System
   - repairing Items costs less stamina
@@ -81,10 +82,11 @@ This pack changes a lot of commonly used files so it probably won't be compatibl
 
 approved compatibility:
   - Jimk Camo Textures (https://github.com/Jimk72/Icarus_Mods)
-  - CritFail_WN_PlatTi_week20 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
-  - CritFail_WN_ALL_week20 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
+  - Jimk High Jump (https://github.com/Jimk72/Icarus_Mods)
+  - CritFail_WN_PlatTi_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
+  - CritFail_WN_ALL_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
 
 
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
 
-Especially @Critical_Fail for his awesome work that i'm allowed to use!
+Especially @Critical_Fail for his awesome work i'm allowed to use!
