@@ -6,7 +6,7 @@ Due to the lack of time I didn't get to the point splitting my mods yet.
 
 The Mod is optimised to run with Jimk's High Jump mod (https://github.com/Jimk72/Icarus_Mods).
 
-All Envirosuits got more FallDamageResistance but your char can still get injured.
+All Envirosuits got more Falling Resistance but your char can still get injured.
 The adjustment wont be enough for those gravity mods.
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
