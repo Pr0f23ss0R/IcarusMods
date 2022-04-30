@@ -5,6 +5,7 @@ I don't have that much time to play the game atm, so please let met know if ther
 Due to the lack of time I didn't get to the point splitting my mods yet.
 
 The Mod is optimised to run with Jimk's High Jump mod (https://github.com/Jimk72/Icarus_Mods).
+
 All Envirosuits got more FallDamageResistance but your char can still get injured.
 The adjustment wont be enough for those gravity mods.
 
@@ -81,11 +82,12 @@ WorkshopItems
 This pack changes a lot of commonly used files so it probably won't be compatible with any other modpack.
 
 approved compatibility:
-  - Jimk Camo Textures (https://github.com/Jimk72/Icarus_Mods)
-  - Jimk High Jump (https://github.com/Jimk72/Icarus_Mods)
-  - CritFail_WN_PlatTi_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
-  - CritFail_WN_ALL_week21 (https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc)
-  - TheOrangeFloof Levelling Mod (https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods)
+  - Jimk Camo Textures https://github.com/Jimk72/Icarus_Mods
+  - Jimk High Jump https://github.com/Jimk72/Icarus_Mods/blob/main/Jimk_High_Jump_Wk21%20_P.pak
+  - Jimk Easy Lights https://github.com/Jimk72/Icarus_Mods/blob/main/Jimk_Easy_Lights_Wk21%20_P.pak
+  - CritFail_WN_PlatTi_week21 https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc
+  - CritFail_WN_ALL_week21 https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc
+  - TheOrangeFloof Levelling Mod https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods/src/branch/master/Floof_LevelingMod%20_P.pak
 
 
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
