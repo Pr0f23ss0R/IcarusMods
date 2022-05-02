@@ -69,6 +69,7 @@ Repair System
 
 WorkshopItems
   - changed most of the weapon stats
+  - changed stats of backpacks and modules
   - added Meta bolt action rifle to workshop
   - changed some amo types buyable in the workshop
   - MXC Furnace works the same as a concrete furnace
