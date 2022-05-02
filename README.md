@@ -42,7 +42,6 @@ Inventory
 
 Items
   - stack sizes and weight adjusted (Thanx @Critical_Fail!)
-  - DeepMiningDrills should work faster
   - raised amount of stored units into canteens and oxygen tanks
   - raised amount of stored units into Lantern and Biofuel Lamp
  
@@ -60,6 +59,7 @@ Prospects
 Processing
   - Player Inventory got an additional Queue Slot and faster processing
   - most processors got faster
+  - less Biofuel consumed by processors
 
 Repair System
   - repairing Items costs less stamina
