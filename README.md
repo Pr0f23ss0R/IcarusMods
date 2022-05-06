@@ -70,6 +70,9 @@ Repair System
 WorkshopItems
   - changed most of the weapon stats
   - changed stats of backpacks and modules
+  - mxc tools got the look of larkwell tools
+  - larkwell tools are replaced with Meta_Tools
+  - inaris tools got black n red look
   - added Meta bolt action rifle to workshop
   - changed some amo types buyable in the workshop
   - MXC Furnace works the same as a concrete furnace
@@ -85,9 +88,6 @@ This pack changes a lot of commonly used files so it probably won't be compatibl
 approved compatibility:
   - Jimk Camo Textures https://github.com/Jimk72/Icarus_Mods
   - Jimk High Jump https://github.com/Jimk72/Icarus_Mods/blob/main/Jimk_High_Jump_Wk21%20_P.pak
-  - Jimk Easy Lights https://github.com/Jimk72/Icarus_Mods/blob/main/Jimk_Easy_Lights_Wk21%20_P.pak
-  - CritFail_WN_PlatTi_week21 https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc
-  - CritFail_WN_ALL_week21 https://github.com/CritFailMods/Icarus-Mods/tree/Talents-%26-Misc
   - TheOrangeFloof Levelling Mod https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods/src/branch/master/Floof_LevelingMod%20_P.pak
 
 
