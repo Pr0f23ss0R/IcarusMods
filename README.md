@@ -87,7 +87,6 @@ This pack changes a lot of commonly used files so it probably won't be compatibl
 
 approved compatibility:
   - Jimk Camo Textures https://github.com/Jimk72/Icarus_Mods
-  - Jimk High Jump https://github.com/Jimk72/Icarus_Mods/blob/main/Jimk_High_Jump_Wk21%20_P.pak
   - TheOrangeFloof Levelling Mod https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods/src/branch/master/Floof_LevelingMod%20_P.pak
 
 
