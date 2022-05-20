@@ -87,7 +87,7 @@ This pack changes a lot of commonly used files so it probably won't be compatibl
 
 approved compatibility:
   - Jimk Camo Textures https://github.com/Jimk72/Icarus_Mods
-  - TheOrangeFloof Levelling Mod https://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods/src/branch/master/Floof_LevelingMod%20_P.pak
+  - TheOrangeFloof Levelling Mod (http://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods)
 
 
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
