@@ -4,7 +4,7 @@ The main goal of this modpack is to make solo gameplay more fun.
 I don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
 Due to the lack of time I didn't get to the point splitting my mods yet.
 
-The Mod is optimised to run with Jimk's High Jump mod (https://github.com/Jimk72/Icarus_Mods).
+The Mod is optimised to run with Jimk's 700 Jump mod (https://github.com/Jimk72/Icarus_Mods).
 
 All Envirosuits got more Falling Resistance but your char can still get injured.
 The adjustment wont be enough for those gravity mods.
