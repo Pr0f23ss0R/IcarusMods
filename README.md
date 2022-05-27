@@ -24,6 +24,7 @@ Armour/Suits
 
 Buildings
   - durability of stone elements copied to glass (beside of hp)
+  - Hedgehogs healthpoints raised
 
 Crafting:
   - some additional recipes added (Thanx @Critical_Fail!)
@@ -60,6 +61,7 @@ Processing
   - Player Inventory got an additional Queue Slot and faster processing
   - most processors got faster
   - less Biofuel consumed by processors
+  - all meat types can be composted to biofuel (cooked and dried giving more fuel)
 
 Repair System
   - repairing Items costs less stamina
