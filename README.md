@@ -21,6 +21,7 @@ Pr0fpack changes:
 Armour/Suits
   - most armour sets got a little rework
   - some envirosuits got a little rework
+  - custom suit modules added
 
 Buildings
   - durability of stone elements copied to glass (beside of hp)
@@ -40,6 +41,7 @@ Inventory
   - raised inventory slots for fireplaces
   - raised inventory slots for the Generator
   - added second slot for most fuel types
+  - Radar and Extractors will fit into normal inventory
 
 Items
   - stack sizes and weight adjusted (Thanx @Critical_Fail!)
@@ -70,6 +72,7 @@ Repair System
   - raised durability for workshop items
 
 WorkshopItems
+  - canteen and oxygen tank come prefilled
   - changed most of the weapon stats
   - changed stats of backpacks and modules
   - mxc tools got the look of larkwell tools
@@ -77,14 +80,15 @@ WorkshopItems
   - inaris tools got black n red look
   - added Meta bolt action rifle to workshop
   - changed some amo types buyable in the workshop
+  - stack size of arrow bundles adjusted
   - MXC Furnace works the same as a concrete furnace
   - kits are added:
       - Armour kit
       - Aluminium Base Kit
       - Concrete Base Kit
       - Greenhouse Kit
- 
- 
+      
+      
 This pack changes a lot of commonly used files so it probably won't be compatible with any other modpack.
 
 approved compatibility:
