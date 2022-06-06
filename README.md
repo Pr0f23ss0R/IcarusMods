@@ -57,7 +57,9 @@ Modifiers
   - removed pneumonia
 
 Prospects
-  - added whole map as outpost
+  - added whole olympus and styx maps as outposts
+  - removed xp nerve from outposts
+  - all normal animals for the selected map are spawning in the outpost
 
 Processing
   - Player Inventory got an additional Queue Slot and faster processing
