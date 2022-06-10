@@ -10,6 +10,6 @@ FullMapOutpostStyx: replaces the map of the free outpost with the full styx map
 
 Armour&Modules: changed stats of envirosuits, armours and modules
 
-InventoryExtensions: extra slots for a lot of things
+InventoryExtensions: 30 DropShip slots + prefilled canteen and o2 tank from the workshop
 
 RmPneumonia: removed pneumonia
