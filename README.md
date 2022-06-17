@@ -55,10 +55,10 @@ Modifiers
   - changed underground debuff
   - removed pneumonia
 
-Prospects
-  - added whole olympus and styx maps as outposts
-  - removed xp nerve from outposts
-  - all normal animals for the selected map are spawning in the outpost
+//Prospects
+//  - added whole olympus and styx maps as outposts
+//  - removed xp nerve from outposts
+//  - all normal animals for the selected map are spawning in the outpost
 
 Processing
   - Player Inventory got an additional Queue Slot and faster processing
@@ -100,3 +100,5 @@ approved compatibility:
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
 
 Especially @Critical_Fail for his awesome work i'm allowed to use!
+
+// = not working at the moment
