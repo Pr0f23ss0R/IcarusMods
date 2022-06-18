@@ -1,8 +1,8 @@
 standalone versions of Pr0fPack mods can be found in here
 
 OutpostMod - replaces forest outpost with full styx map
-             removed xp nerve from all outposts
-             animal spawn configurable via difficulty
+           - removed xp nerve from all outposts
+           - animal spawn configurable via difficulty
 
 Armour&Modules: changed stats of envirosuits, armours and modules
 
