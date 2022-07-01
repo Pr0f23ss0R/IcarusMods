@@ -91,11 +91,6 @@ WorkshopItems
       
 This pack changes a lot of commonly used files so it probably won't be compatible with any other modpack.
 
-approved compatibility:
-  - Jimk Camo Textures https://github.com/Jimk72/Icarus_Mods
-  - TheOrangeFloof Levelling Mod (http://git.floofsnetwork.xyz/TheOrangeFloof/IcarusMods)
-
-
 Big Thank you to the awesome Linkarus modding community for the help getting into modding!
 
 Especially @Critical_Fail for his awesome work i'm allowed to use!
