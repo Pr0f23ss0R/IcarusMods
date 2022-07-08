@@ -23,7 +23,6 @@ Armour/Suits
   - custom suit modules added
 
 Buildings
-  - durability of stone elements copied to glass (beside of hp)
   - Hedgehogs healthpoints raised
 
 Crafting:
