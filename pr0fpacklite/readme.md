@@ -16,6 +16,7 @@ Crafting
 
 Inventory
   - player loadout raised to 30 slots
+  - radars and extractors can be carried into normal inventory
 
 Equipment
   - workshop canteen and o2 tank come prefilled
