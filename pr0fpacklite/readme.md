@@ -1,4 +1,4 @@
-# IcarusMods - Pr0fPackLite WIP
+# IcarusMods - Pr0fQOLPack WIP
 
 Welcome to the lite version of pr0fpack
 
