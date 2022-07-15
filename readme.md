@@ -3,10 +3,6 @@ IcarusMods - Pr0fPack WIP
 
 The main goal of this modpack is to make solo gameplay more fun. I don't have that much time to play the game atm, so please let met know if there are any bugs or if you have any suggestions.
 
-The Mod is optimised to run with Jimk's 700 Jump mod (https://github.com/Jimk72/Icarus_Mods).
-
-All Envirosuits got more Falling Resistance but your char can still get injured. The adjustment wont be enough for those gravity mods.
-
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
 
 INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak files, and drag and drop into the mods folder you created. Good to go!
