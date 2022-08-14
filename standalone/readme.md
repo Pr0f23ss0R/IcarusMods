@@ -5,7 +5,6 @@ OutpostMod - replaces forest outpost with full styx map, removed xp nerve from a
 InventoryExtension: 30 DropShip slots + prefilled canteen and o2 tank from the workshop
 
 WorkshopKits:
-  - Armour kit (replaces an envirosuit)
   - Aluminium Base Kit (replaces stamina gel)
   - Concrete Base Kit (replaces oxygen gel)
   - Greenhouse Kit (replaces soda)
