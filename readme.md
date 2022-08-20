@@ -4,6 +4,7 @@ some single mods and a qol-pack can be found in here.
 
 I'd recommend using the Icarus Mod Manager from Jimk72, which can be found here 
 https://github.com/Jimk72/Icarus_Software
+
 Once the Mods are integrated into the IMM they can be easily installed, merged, updated and removed.
 If you need any help, just take a look into the Linkarus Discord communtiy. 
 
