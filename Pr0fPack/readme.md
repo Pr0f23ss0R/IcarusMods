@@ -41,11 +41,9 @@ Items
 Hunting/PVE
 
     changed most of the weapon damage stats
-    added some additional meet types to some animal carcasses
 
 Modifiers
 
-    changed underground debuff
     removed pneumonia
 
 Outposts
