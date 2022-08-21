@@ -1,8 +1,6 @@
 IcarusMods - Pr0fPack WIP
 
 
-changes:
-
 Armour/Suits
 
     most armour sets got a little rework
