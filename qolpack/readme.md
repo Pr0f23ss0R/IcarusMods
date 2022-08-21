@@ -1,8 +1,6 @@
 IcarusMods - QolPack WIP
 
 
-changes:
-
 Crafting
 
     reduced crafting cost for electronics
