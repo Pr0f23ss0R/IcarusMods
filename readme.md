@@ -1,6 +1,6 @@
 Pr0fMods
 
-some single mods and a qol-pack can be found in here.
+some standalone mods, a qol-pack and my pr0fpack can be found in here.
 
 I'd recommend using the Icarus Mod Manager from Jimk72, which can be found here 
 https://github.com/Jimk72/Icarus_Software
