@@ -6,7 +6,7 @@ I'd recommend using the Icarus Mod Manager from Jimk72, which can be found here
 https://github.com/Jimk72/Icarus_Software
 
 Once the Mods are integrated into the IMM they can be easily installed, merged, updated and removed.
-If you need any help, just take a look into the Linkarus Discord communtiy. 
+If you need any help, just take a look into the Linkarus Discord communtiy. https://discord.gg/rFn2zp6g
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
 
