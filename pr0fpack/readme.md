@@ -77,7 +77,7 @@ WorkshopItems
     changed some amo types buyable in the workshop
     stack size of arrow bundles adjusted
     MXC Furnace works the same as a concrete furnace
-    attachement system added to meta tools/weapons
+    attachement system added to meta tools/weapons and armours
     kits are added:
         Armour kit
         Aluminium Base Kit
