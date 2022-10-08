@@ -4,8 +4,6 @@ OutpostMod - replaces forest outpost with full styx map, removed xp nerve from a
 
 InventoryExtension: 30 DropShip slots + prefilled canteen and o2 tank from the workshop
 
-RmPneumonia: removes pneumonia completely
-
 WorkshopKits:
   - Aluminium Base Kit (replaces stamina gel)
   - Concrete Base Kit (replaces oxygen gel)
