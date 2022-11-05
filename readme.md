@@ -1,5 +1,8 @@
 Pr0fMods
 
+*** Since I don't have enough time to take care for the weekly updates, my mods are going to be updated by TheOrangeFloof. https://gitlab.floofsnetwork.xyz/icarus-modding/Mods/-/tree/master/Pr0f23ss0R ***
+
+
 some standalone mods, a qol-pack and my pr0fpack can be found in here.
 
 I'd recommend using the Icarus Mod Manager from Jimk72, which can be found here 
